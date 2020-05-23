@@ -2,9 +2,11 @@
 
 ## Setup
 
-+ git clone
-+ npm install
-+ npm run storybook
+git clone
+
+npm install
+
+npm run storybook
 
 ## Design
 
