@@ -7,8 +7,8 @@ export default {
 };
 
 export const Icon = () => (
-    <div>
+    <span>
         <SVG width={30}/>
-    </div>
+    </span>
 );
 
