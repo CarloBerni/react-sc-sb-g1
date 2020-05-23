@@ -1,7 +1,10 @@
 import React from 'react';
-import SVG from '../ui/atoms/SVG'
+import SVG, {icons} from '../ui/atoms/SVG'
 
-export default {title: 'Icon'};
+export default {
+    title: 'Icon',
+    component: SVG
+};
 
 export const Icon = () => (
     <div>
